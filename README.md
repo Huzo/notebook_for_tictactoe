@@ -1,1 +1,2 @@
-Just a simple Tic-Tac-Toe game programmed in Python
+A very simple program for the game TicTacToe written in Jupyter Notebook
+        
