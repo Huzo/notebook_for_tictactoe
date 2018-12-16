@@ -1,2 +1,1 @@
-# notebook_for_tictactoe
-A very simple program for the game TicTacToe written in Jupyter Notebook
+Just a simple Tic-Tac-Toe game programmed in Python
